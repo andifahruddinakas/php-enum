@@ -1,8 +1,8 @@
 <?php
 
-namespace MiladRahimi\Enum\Tests;
+namespace Akas\Enum\Tests;
 
-use MiladRahimi\Enum\Enum;
+use Akas\Enum\Enum;
 
 class SampleEnum extends Enum
 {

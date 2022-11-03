@@ -1,6 +1,6 @@
 <?php
 
-namespace MiladRahimi\Enum;
+namespace Akas\Enum;
 
 use ReflectionClass;
 use Throwable;

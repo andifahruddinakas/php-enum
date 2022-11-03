@@ -1,5 +1,5 @@
 {
-  "name": "miladrahimi/php-enum",
+  "name": "andifahruddinakas/php-enum",
   "description": "A PHP Abstract Enum Class",
   "keywords": [
     "Enum",
@@ -10,18 +10,18 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Milad Rahimi",
-      "email": "info@miladrahimi.com"
+      "name": "Andi Fahruddin Akas",
+      "email": "andifahruddinakas@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "MiladRahimi\\Enum\\": "src/"
+      "Akas\\Enum\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "MiladRahimi\\Enum\\Tests\\": "tests/"
+      "Akas\\Enum\\Tests\\": "tests/"
     }
   },
   "require": {
