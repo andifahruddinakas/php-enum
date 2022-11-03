@@ -1,14 +1,19 @@
 {
   "name": "andifahruddinakas/php-enum",
+  "type": "library",
   "description": "A PHP Abstract Enum Class",
   "keywords": [
     "Enum",
     "Abstract Enum",
     "Enumerated type"
   ],
-  "type": "library",
+  "homepage": "https://github.com/andifahruddinakas/php-enum",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Milad Rahimi",
+      "email": "info@miladrahimi.com"
+    },
     {
       "name": "Andi Fahruddin Akas",
       "email": "andifahruddinakas@gmail.com"
