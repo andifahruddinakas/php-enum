@@ -7,7 +7,7 @@ To make your Enums feel alive, just make them extend `Enum` abstract class!
 Install [Composer](https://getcomposer.org) and run following command in your project's root directory:
 
 ```
-composer require akas/php-enum "1.*"
+composer require andifahruddinakas/php-enum
 ```
 
 ## Usage
